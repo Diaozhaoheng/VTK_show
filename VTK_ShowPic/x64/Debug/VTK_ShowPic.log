@@ -1,0 +1,9 @@
+﻿  CVTKRenderDialog.cpp
+D:\Library\VTK\debug\include\vtk-9.3\vtkPolyDataMapper.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/CVTKRenderDialog.cpp”)
+  
+  LINK : 没有找到 E:\workspace\vtkshow\vtkshow\x64\Debug\VTK_ShowPic.exe 或上一个增量链接没有生成它；正在执行完全链接
+  VTK_ShowPic.vcxproj -> E:\workspace\vtkshow\vtkshow\x64\Debug\VTK_ShowPic.exe
+  Microsoft (R) COFF/PE Editor Version 14.38.33133.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
